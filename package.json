@@ -2,7 +2,7 @@
   "name": "Vmeste",
   "version": "1.0.0",
   "description": "",
-  "homepage": "http://github.com/celtlec/sss",
+  "homepage": "https://celtlec.github.io/ss2/",
   "main": "index.js",
   "scripts": {
     "start": "cross-env PORT=10888 HTTPS=true react-scripts start",
