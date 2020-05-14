@@ -29,6 +29,16 @@ const Home = ({ id, go, fetchedUser }) => (
 			</Div>
 		</Group>
 	</Panel>
+
+		<Group title="Navigation Example">
+			<Div>
+				<Button size="xl" level="2" onClick={go} data-to="persik">
+					Show me the Persik2, please
+				</Button>
+			</Div>
+		</Group>
+	</Panel>
+
 );
 
 Home.propTypes = {
